@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Makestagram/ViewControllers/UserProfileViewController.swift"
+            timestampString = "488668498.862864"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "UserProfileViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "round.UserProfileViewController.cell (round.UserSearchTableCell, didSelectFollowUser : __ObjC.PFUser) -&gt; ()"
+                  moduleName = "round"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/randyperecman/Desktop/developer/round_project/Makestagram/ViewControllers/UserProfileViewController.swift"
+                  timestampString = "488768231.156101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "protocol witness for round.FriendSearchTableViewCellDelegate.cell (round.UserSearchTableCell, didSelectFollowUser : __ObjC.PFUser) -&gt; () in conformance round.UserProfileViewController : round.FriendSearchTableViewCellDelegate in round"
+                  moduleName = "round"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/randyperecman/Desktop/developer/round_project/Makestagram/ViewControllers/UserProfileViewController.swift"
+                  timestampString = "488768231.1563"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dynamic round.UserProfileViewController.cell (round.UserSearchTableCell, didSelectFollowUser : __ObjC.PFUser) -&gt; ()"
+                  moduleName = "round"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/randyperecman/Desktop/developer/round_project/Makestagram/ViewControllers/UserProfileViewController.swift"
+                  timestampString = "488768231.156424"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

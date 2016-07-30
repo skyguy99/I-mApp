@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AskViewController" customModule="I_m__" customModuleProvider="target">
+            <connections>
+                <outlet property="searchDisplayController" destination="Q2s-Yk-ZgK" id="uAR-x7-IjR"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <color key="backgroundColor" red="0.95686274509803915" green="0.95294117647058818" blue="0.96862745098039216" alpha="1" colorSpace="calibratedRGB"/>
+            <point key="canvasLocation" x="390" y="235"/>
+        </view>
+        <searchDisplayController id="Q2s-Yk-ZgK">
+            <connections>
+                <outlet property="delegate" destination="-1" id="C0f-k9-c1P"/>
+                <outlet property="searchContentsController" destination="-1" id="erP-Bd-hO2"/>
+                <outlet property="searchResultsDataSource" destination="-1" id="r3I-vU-hyA"/>
+                <outlet property="searchResultsDelegate" destination="-1" id="S38-UO-jVo"/>
+            </connections>
+        </searchDisplayController>
+    </objects>
+</document>
